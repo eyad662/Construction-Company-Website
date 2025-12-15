@@ -19,25 +19,4 @@ A complete front-end website template for a Construction and Engineering firm. T
 | **JavaScript** | Used for handling interactivity and dynamic elements (e.g., scroll effects, navigation toggles). |
 | **Font Awesome** | Used for icons across the website (contact details and features). |
 
-## 🚀 Getting Started
 
-Follow these steps to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-You only need a modern web browser (like Chrome, Firefox, or Edge).
-
-### Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YourUsername/Construction-Company-Website.git](https://github.com/YourUsername/Construction-Company-Website.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```bash
-    cd Construction-Company-Website
-    ```
-3.  **Open the file:**
-    Open the `index.html` file in your preferred web browser.
-
-## 📂 Project Structure
